@@ -1,5 +1,0 @@
-Flask
-pandas
-yfinance
-scikit-learn
-gunicorn
